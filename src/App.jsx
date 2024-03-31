@@ -16,7 +16,7 @@ function App() {
           <a href="book.html">Book</a>
           <a href="#gallery">gallery</a>
           <a href="#review">review</a>
-          <a href="#services">Services</a>
+          <a href="about">about</a>
         </nav>
         <form action="" className="search-bar-container">
           <input type="search" id="search-bar" placeholder="search ..." />
